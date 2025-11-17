@@ -1,0 +1,10 @@
+Django
+djangorestframework
+markdown
+django-filter
+django-cors-headers
+gunicorn
+pytest
+pytest-django
+pytest-html
+model_bakery
