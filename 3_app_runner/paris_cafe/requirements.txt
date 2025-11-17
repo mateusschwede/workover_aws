@@ -1,9 +1,5 @@
 Django
 djangorestframework
-markdown
-django-filter
 django-cors-headers
-pytest
-pytest-django
-pytest-html
-model_bakery
+django-filter
+markdown
